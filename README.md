@@ -6,4 +6,5 @@ Stwórz mechanizm sprawdzający czy podnoszony element ma kształt koła. Jeśli
 Do uruchomienia programu potrzebne jest biblioteka GDI+.
 Nacisnąć prawym przyciskiem na projekt4.
 Właściwości -> Konsolidator -> Dane wejściowe -> Dodatkowe zależności.
-trzeba dodać "gdiplus.lib;".
+Trzeba dodać "gdiplus.lib;".
+Następnie skompilować.
